@@ -1,0 +1,182 @@
+
+.heading {
+    padding: 100px;
+    text-shadow: 2px 2px black;
+}
+.pdfsection1 {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -440px;
+    color: whitesmoke;
+}
+.form1 {
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+body {
+    background-color: lightseagreen;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.searchbox{
+    margin-top: 30px;
+}
+
+.section1 {
+    background: crimson;
+}
+
+.section1 > div > h2 {
+    color:white;
+    display: block;
+}
+
+.section_2 {
+    background: yellowgreen;
+    padding: 40px;
+   background-image: url("http://127.0.0.1:8887/LP%20BE/src/images/contentback.jpg");
+   
+}
+.container-fluid{
+    width: 100%;
+}
+.videoimg {
+    width:100px;
+    height: 100px;
+    user-drag:none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+ }
+.listcontainer{
+    background-color: white;
+    padding: 2px;
+    left:0;
+    transition: 0.3s;
+    position: fixed;
+    width: 25%;
+    text-align: center;
+    height:100%;
+   
+}
+
+
+
+h3{ 
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+.vdt,.tl, .vdt:hover,.tl:hover, .vdt:visited,.tl:visited{
+    color: black;
+}
+
+.home, .about {
+    font-size: 50px;
+    margin-left: 20px; 
+    margin-top: 10px;
+}
+
+
+
+.leftof2 {
+    background: green;
+    padding: 40px;
+    font-family: Roboto;
+    text-shadow: 2px 2px black;
+}
+
+.rightof2 {
+    background: orange;
+    padding: 40px;
+    font-family: Roboto;
+    text-shadow: 2px 2px black;
+   
+}
+
+.logoimage {
+    width: 140px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+body{
+    min-width: 1000px;
+    min-height: 1000px;
+    
+}
+
+.footer-bottom {
+    padding: 20px; 
+    border-top: 1px solid #2f2f33 ;
+    background: black ;
+    height: 65px;
+}
+
+.footer-bottom p {
+    margin-bottom: 0;
+
+}
+
+
+.newcontent{
+    margin-top: 60px;
+    color: white;
+}
+.copyright-text {
+    color: white;
+}
+
+.newcontent {
+    margin-top: 100px;
+}
+
+.home, .about{
+    font-size: 20px;
+    margin-top: 0px;
+}
+
+.footer_1{
+
+    height: 12%;
+    background-color: whitesmoke;
+    position: fixed;
+    bottom: 0;  
+    left:0;  
+    width: 100%;
+}
+
+
+
+.jumbo{
+    margin-top: 20px;
+    padding: 60px;
+    color: whitesmoke;
+    background-image: url("http://127.0.0.1:8887/LP%20BE/src/images/Skills.jpg");
+    left:0;
+}
+
+.add-comment{
+    margin-left: -200px;
+    margin-top: 100px;
+    
+}
+
+.commentcomp {
+    margin-top: 20px;
+    margin-left: -200px;
+    text-align: left;
+    background-color: aquamarine;
+    width: 143%;
+    border-radius: 20px;
+    overflow: auto;
+    background-image: url("http://127.0.0.1:8887/LP%20BE/src/images/commentcontent.jpg");
+    
+}

@@ -1,0 +1,23 @@
+.abtsection1{
+    margin-top: 80px;
+    background: white;
+    width: 700px;
+    border: 2px solid black;
+    height:500px;
+}
+
+.abtsection1 li {
+    font-size: 15px;
+    padding:5px;
+}   
+
+.abthead {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.abtcontent {
+    font-size: 20px;
+}
